@@ -1,0 +1,17 @@
+name: base
+channels:
+- conda-forge
+- default
+dependencies:
+- jupyterlab
+- numpy
+- scipy
+- pandas
+- matplotlib
+- altair
+- seaborn
+- plotly
+- ipywidgets
+- pip
+- pip:
+  - pyviz
