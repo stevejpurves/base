@@ -1,2 +1,2 @@
 # base
-a ase python environment
+A base python environment
