@@ -12,6 +12,7 @@ dependencies:
 - seaborn
 - plotly
 - ipywidgets
+- ipympl
 - pip
 - pip:
   - pyviz
