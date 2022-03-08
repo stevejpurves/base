@@ -13,6 +13,4 @@ dependencies:
 - plotly
 - ipywidgets
 - ipympl
-- pip
-- pip:
-  - pyviz
+- ipyleaflet
